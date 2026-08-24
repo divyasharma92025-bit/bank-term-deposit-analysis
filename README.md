@@ -113,7 +113,7 @@ bank-term-deposit-analysis/
 ### 1. Clone the repository
 
 ``` bash
-git clone <your-repository-url>
+git clone https://github.com/divyasharma92025-bit/bank-term-deposit-analysis.git
 cd bank-term-deposit-analysis
 ```
 
